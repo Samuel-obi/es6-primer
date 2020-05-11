@@ -1,0 +1,34 @@
+{
+  "name": "es6-primer",
+  "version": "1.0.0",
+  "description": "JavaScript and Version Control Primer in NodeJS Environment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Samuel-obi/es6-primer.git"
+  },
+  "keywords": [
+    "Git",
+    "JavaScript",
+    "Node",
+    "Book-examples"
+  ],
+  "author": "Samuel Obi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Samuel-obi/es6-primer/issues"
+  },
+  "homepage": "https://github.com/Samuel-obi/es6-primer#readme",
+  "devDependencies": {
+    "@babel/core": "^7.9.0",
+    "@babel/preset-env": "^7.9.5",
+    "@babel/register": "^7.9.0"
+  },
+  "dependencies": {
+    "babel-polyfill": "^6.26.0",
+    "node-fetch": "^2.6.0"
+  }
+}
