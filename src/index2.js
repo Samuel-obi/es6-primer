@@ -15,7 +15,7 @@ addressees.map(
         const message = `
         Dear ${addressee},
         it is my pleasure to infrom you that your admissionn letter us ready for pick up.
-        Congratulations!
+        Congratulations!!
         
         Regards,
         Admission Officer`
